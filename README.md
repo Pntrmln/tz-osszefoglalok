@@ -1,4 +1,4 @@
-# Az összefoglalók 2025. szeptemberétől az alábbi oldalon tekinthetők meg: www.pntrmln.hu/tz-osszefoglalok
+# Az összefoglalók 2025. szeptemberétől az alábbi oldalon tekinthetők meg: www.pntrmln.hu/osszefoglalok
 
 ## Információ:
 Ha nem tudod megnyitni az oldalt: contact@pntrmln.hu  
