@@ -1,6 +1,8 @@
 # Az összefoglalók 2025. szeptemberétől az alábbi oldalon tekinthetők meg: www.pntrmln.hu/osszefoglalok
 
 ## Információ:
-Ha nem tudod megnyitni az oldalt: contact@pntrmln.hu  
-Ha nem tudod letölteni a jelenlegi összefoglalót: osszefoglalo@pntrmln.hu  
-Az e-mailedben kérlek írd le <b>részletesen</b> a problémát, és adj meg információkat is! (Pl.: Eszközöd neve, böngésződ, vírusirtó szoftvered, stb.) 
+Az összefoglalók 2-3 nappal a témazáró/vizsga előtt kerülnek ki a weboldalra.
+Ha hamarabb szeretnéd elérni az összefoglalókat, akkor fizess elő az alábbi oldalon:
+buymeacoffee.com/pntrmln
+
+Az összefoglalók elérésének más módja nincsen és nem is lesz.
